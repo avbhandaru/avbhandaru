@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avbhandaru
-- 👀 I’m interested in SOAs, Developer tools (anything to make my life easier), and functional programming languages!
-- 🌱 I’m currently learning Rust, Kubernetes, Distributed Service Architecture
+- 👀 I’m interested in infrastructure, developer tools (anything to make my life easier), and functional programming languages!
+- 🌱 I’m currently learning Rust, Golang, and Envoy
 - 💞️ I’m looking to collaborate on hoarder (useful chrome extension?)
 - 📫 How to reach me? Send me an email at bhandaru <dot> akhil <at> gmail <dot> com
 
